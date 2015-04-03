@@ -2,7 +2,7 @@
 These were written for part of a homework for one of my classes (CPNS 31100). I thought that saving these particular algorithms would be interesting/helpful.
 
 
-Because this was written originally for a class, the algorithms were written with a function in mind. Please look at the .pdf for more information.
+Because this was written originally for a class, the algorithms were written with a function in mind. Please look at `math_details.pdf` for more information.
 
 ## Algorithms Written
 [Newton's Method in Optimization](http://en.wikipedia.org/wiki/Newton%27s_method_in_optimization) (`newton.m`)
